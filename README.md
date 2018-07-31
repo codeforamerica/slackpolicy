@@ -9,5 +9,5 @@ Dated 1/18/17
 * Feel free to create channels, but keep in mind that Slack channels that are not active for three consecutive months will be archived. 
 * Please note that Code for America is a 501(c)3 non-partisan organization. This particular Slack should not be used for planning partisan activities. For examples of what Code for America considers partisan activity [please see these guidelines:](https://docs.google.com/a/codeforamerica.org/document/d/1MdAkYUV8CqI1szC0O8Erc6_7bHnoPLOPMDw9z_OdFTQ/edit?usp=sharing) 
 * Only staff members of Code for America are allowed to integrate bots, if you would like to add a bot please DM @civicwhitaker. 
-* New users are asked  take a moment to update your profile with your first and last names, title, and organization so people have a better chance of knowing who you are: https://cfa.slack.com/account/profile
+* New users are asked to take a moment to update your profile with your first and last names, title, and organization so people have a better chance of knowing who you are: https://cfa.slack.com/account/profile
 * If you ever have any questions or issues, please feel free to ping @civicwhitaker who moderates our Slack forum. If you are being harrassed on our Slack, you may also contact safespace@codeforamerica.org.
