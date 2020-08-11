@@ -1,0 +1,12 @@
+# Code for Puerto Rico Slack Policy
+Dated 2020-08-11
+
+* Code for Puerto Rico tiene un código de conducta que aplica a todos nuestros espacios y eventos, incluyendo nuestro espacio en Slack. Puede leer el [código de conducta aquí.](https://github.com/code4puertorico/codeofconduct).
+* Tengan en cuenta que cualquier integrante del equipo administrativo de Code for Puerto Rico _tiene la autoridad de remover_ y _removera_ a cualquier persona(s) que violente nuestro [código de conducta](https://github.com/code4puertorico/codeofconduct) o que sea disruptivo para la comunidad.
+* Slack es un excelente espacio para colaborar, dicho esto no se debe utilizar para promover compañias o productos sin antes preguntarle al equipo administrativo. La expectativa es que se utilice el canal de #trabajos-jobs para postear oportunidades de empleo.
+* Tengan en cuenta que cualquiera puede unirse a este espacio de Slack. Siempre deben de tratar el espacio de Slack de Code for Puerto Rico igual que a un foro público.
+* Pueden crear los canales que quieran/necesiten. Canales que no tengan actividad en dos meses consecutivos seran borrados. Las excepciones a esta regla son los canales de operaciones de los proyectos oficiales de Code for Puerto Rico.
+* Recuerden que Code for Puerto Rico es parte de Code for America, una organización no-partidista 501(c)3. Este espacio no se debe de usar para la planificación de actividades partidistas. [Por favor lean:](https://docs.google.com/a/codeforamerica.org/document/d/1MdAkYUV8CqI1szC0O8Erc6_7bHnoPLOPMDw9z_OdFTQ/edit?usp=sharing) para ejemplos de que Code for America considera como actividades partidistas.
+* Solo miembros del equipo administrativo de Code for Puerto Rico pueden integrar bots u otros servicios o integraciones. Si quieren añadir un bot o integración envien un mensaje privado (DM) a @froi o @alberto.
+* Por favor tomen un momento para completar su perfil con su nombre, que hacen (What I do y como quieren ser identificado (pronombres / pronouns). Esto permite que otros miembros conoscan quien eres y como hacer cualquier acercamiento. Pueden hacer estos cambios en: https://code4pr.slack.com/account/profile
+* Para cualquier pregunta o problema, por favor contacta por DM a @froi o @alberto. Si sientes algún acoso o vez una violación a nuestro [código de conducta aquí.](https://github.com/code4puertorico/codeofconduct) en nuestro espacio de Slack puedes contactar a coc@code4puertorico.org.
